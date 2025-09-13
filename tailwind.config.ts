@@ -57,6 +57,16 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Campus Information System Colors
+        campus: {
+          blue: "hsl(var(--campus-blue))",
+          "blue-light": "hsl(var(--campus-blue-light))",
+          teal: "hsl(var(--campus-teal))",
+          "teal-light": "hsl(var(--campus-teal-light))",
+          gold: "hsl(var(--campus-gold))",
+          gray: "hsl(var(--campus-gray))",
+          "gray-light": "hsl(var(--campus-gray-light))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
